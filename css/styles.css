@@ -2,7 +2,7 @@
   background-color: #CEE5D0;
   position: relative;
   padding-top:10px;
-  padding-bottom: 65px;
+  padding-bottom: 70px;
   bottom:100px;
   text-transform: capitalize;
 }
@@ -99,7 +99,7 @@ hr{
 }
 .mountain{
   position:relative;
- top:68px;
+ top:70px;
 }
 .btn {
   background: #8ac28e;
